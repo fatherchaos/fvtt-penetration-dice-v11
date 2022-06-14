@@ -2,7 +2,7 @@
 	"name": "penetration-dice",
 	"title": "Penetration Dice",
 	"description": "Support for Hackmaster-style penetration dice",
-	"version": "1.0.32",
+	"version": "1.0",
 	"minimumCoreVersion": "9",
 	"compatibleCoreVersion": "9",
 	"authors": [{
