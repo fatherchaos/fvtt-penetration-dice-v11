@@ -1,4 +1,4 @@
-import ModuleSupport from './scripts/module-support.js';
+import { ModuleSupport } from './module-support.js';
 
 Die.MODIFIERS['p'] = 'penetrate';
 Die.prototype.penetrate = function(modifier, {recursive=true}={}) {

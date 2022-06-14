@@ -7,7 +7,7 @@
 	"compatibleCoreVersion": "9",
 	"authors": [{
 		"name": "Sterno",
-		"discord": "Sterno#8208",
+		"discord": "Sterno#8208"
     }],
 	"esmodules": ["./scripts/penetration-dice.js"],
 	"url": "https://github.com/drplote/fvtt-penetration-dicep",
