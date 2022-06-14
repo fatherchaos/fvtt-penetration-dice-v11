@@ -5,7 +5,6 @@
 	"version": "1.0.32",
 	"minimumCoreVersion": "9",
 	"compatibleCoreVersion": "9",
-	"author": "Sterno",
 	"authors": [{
 		"name": "Sterno",
 		"discord": "Sterno#8208",
@@ -15,8 +14,4 @@
 	],
 	"packs": [],
 	"url": "https://github.com/drplote/fvtt-penetration-dicep",
-	"manifest": "https://github.com/drplote/fvtt-penetration-dice/releases/latest/download/module.json",
-	"download": "https://github.com/drplote/fvtt-penetration-dice/archive/1.0.32.zip",
-	"bugs": "https://github.com/drplote/fvtt-penetration-dice/issues",
-	"allowBugReporter": true
 }
