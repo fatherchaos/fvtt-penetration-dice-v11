@@ -1,17 +1,24 @@
 {
-    "name": "penetration-dice",
-    "title": "Penetration Dice",
-    "description": "Support for Hackmaster-style penetration dice",
-    "version": "1.0.0",
-    "minimumCoreVersion": "9",
-    "compatibleCoreVersion": "9",
-    "authors": [{
-        "name": "Sterno",
-        "discord": "Sterno#8208"
-    }],
-    "esmodules": ["./scripts/penetration-dice.js"],
-    "url": "https://github.com/drplote/fvtt-penetration-dice",
-    "readme": "https://github.com/drplote/fvtt-penetration-dice/raw/main/README.md",
-    "manifest": "https://github.com/drplote/fvtt-penetration-dice/releases/latest/download/module.json",
-    "download": "https://github.com/drplote/fvtt-penetration-dice/releases/download/1.0.0/module.zip"
+  "title": "Penetration Dice",
+  "description": "Support for Hackmaster-style penetration dice",
+  "version": "1.1.0",
+  "authors": [
+    {
+      "name": "Sterno",
+      "discord": "Sterno#8208",
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+    "scripts/penetration-dice.js"
+  ],
+  "url": "https://github.com/drplote/fvtt-penetration-dice",
+  "readme": "https://github.com/drplote/fvtt-penetration-dice/raw/main/README.md",
+  "manifest": "https://github.com/drplote/fvtt-penetration-dice/releases/latest/download/module.json",
+  "download": "https://github.com/drplote/fvtt-penetration-dice/releases/download/1.1.0/module.zip",
+  "id": "penetration-dice",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10"
+  }
 }
