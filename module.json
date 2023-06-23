@@ -11,11 +11,11 @@
   "esmodules": [
     "scripts/penetration-dice.js"
   ],
-  "url": "https://github.com/drplote/fvtt-penetration-dice",
-  "readme": "https://github.com/drplote/fvtt-penetration-dice/raw/main/README.md",
-  "manifest": "https://github.com/drplote/fvtt-penetration-dice/releases/latest/download/module.json",
-  "download": "https://github.com/drplote/fvtt-penetration-dice/releases/download/1.1.1/module.zip",
-  "id": "penetration-dice",
+  "url": "https://github.com/fatherchaos/fvtt-penetration-dice-v11",
+  "readme": "https://github.com/fatherchaos/fvtt-penetration-dice-v11/raw/main/README.md",
+  "manifest": "https://github.com/fatherchaos/fvtt-penetration-dice-v11/releases/latest/download/module.json",
+  "download": "https://github.com/fatherchaos/fvtt-penetration-dice-v11/releases/download/1.1.1/module.zip",
+  "id": "penetration-dice-v11",
   "compatibility": {
     "minimum": "9",
     "verified": "11"
